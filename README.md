@@ -1,29 +1,28 @@
 # Hi, I'm Hussein Abdelhakim 👋
 
-### Software Engineering Student | Backend & Full Stack Developer
+### Software Engineering Student | Backend Developer
 
-I'm a Software Engineering student at **New Cairo Technological University (NCTU)**, passionate about building scalable web applications and developing efficient software solutions.
+I'm a Software Engineering student at **New Cairo Technological University (NCTU)**, passionate about backend development and building scalable, maintainable web applications.
 
-My main focus is **Backend Development using C# and ASP.NET Core**, while continuously expanding my knowledge of Full Stack Development and modern web technologies.
+My primary focus is **C# and ASP.NET Core**, with an interest in software architecture, database design, and modern web technologies.
 
-I enjoy learning software architecture, writing clean and maintainable code, and turning ideas into practical applications.
+I enjoy turning ideas into practical applications while continuously improving my programming and problem-solving skills.
 
 ---
 
 ### 🚀 About Me
 
 - 🎓 Software Engineering Student at NCTU.
-- 💻 Interested in Backend & Full Stack Development.
-- ⚙️ Currently focusing on ASP.NET Core and .NET.
-- 🌱 Learning Angular to expand my Full Stack skills.
-- 🏗️ Interested in Clean Architecture, SOLID Principles, and Design Patterns.
-- 📚 Always learning and improving my problem-solving skills.
+- 💻 Focused on Backend Development using C# and ASP.NET Core.
+- 🏗️ Interested in Clean Architecture and Software Design Patterns.
+- 🌱 Currently expanding my Full Stack Development skills.
+- 📚 Always learning and exploring new technologies.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Programming Languages**
+**Languages**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,22 +51,37 @@ I enjoy learning software architecture, writing clean and maintainable code, and
 
 ---
 
-### 🏗️ Featured Projects
+### 💻 Featured Projects
 
-**1. ECommerce API**
+#### 🛒 ECommerce API
+
+A RESTful E-Commerce backend built with ASP.NET Core Web API and Clean Architecture.
+
 - ASP.NET Core Web API (.NET 10).
 - Clean Architecture.
 - Entity Framework Core & SQL Server.
-- Authentication and Identity.
+- ASP.NET Core Identity.
+- Product, Cart, and Order Management.
+- Stripe Payment Integration.
 - Repository Pattern.
+- Scalar API Documentation.
 
-**2. Task Management System**
-- ASP.NET Core MVC.
-- Repository Design Pattern.
+🔗 [View Repository](https://github.com/HessuinHakim/ECommerce)
+
+#### 📋 TaskFlow – Task Management System
+
+A task management application designed to organize and manage tasks efficiently.
+
+- ASP.NET Core MVC (.NET 10).
+- Entity Framework Core & SQL Server.
+- ASP.NET Core Identity.
 - Authentication & Email Confirmation.
+- Repository Design Pattern.
 - SOLID Principles.
-- Role-based application structure.
 
+🔗 [View Repository](https://github.com/HessuinHakim/TaskManagement)
+
+---
 
 ### 📊 GitHub Statistics
 
@@ -79,9 +93,10 @@ I enjoy learning software architecture, writing clean and maintainable code, and
 
 ### 🤝 Connect With Me
 
-- 💼 LinkedIn: [Hussein Abdelhakim](www.linkedin.com/in/hessuin-abdelhakim-763966221)
-- 📧 Email: hessuinabdelhakim@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hessuin-abdelhakim-763966221/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/HessuinHakim)
 
 ---
 
-⭐ *Always learning, building, and improving.*
+⭐ Always learning, building, and improving.
