@@ -1,5 +1,9 @@
 # Hi, I'm Hussein Abdelhakim 👋
 
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Hussein Abdelhakim - Backend Developer"/>
+</p>
+
 ### Software Engineering Student | Backend Developer
 
 I'm a Software Engineering student at **New Cairo Technological University (NCTU)**, passionate about backend development and building scalable, maintainable web applications.
@@ -40,7 +44,6 @@ I enjoy turning ideas into practical applications while continuously improving m
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Database & Tools**
 
@@ -60,9 +63,12 @@ A RESTful E-Commerce backend built with ASP.NET Core Web API and Clean Architect
 - ASP.NET Core Web API (.NET 10).
 - Clean Architecture.
 - Entity Framework Core & SQL Server.
-- ASP.NET Core Identity.
-- Product, Cart, and Order Management.
+- ASP.NET Core Identity & JWT Authentication.
+- Product, Category, Brand, Cart, and Order Management.
+- Product Images & Colors Management.
 - Stripe Payment Integration.
+- Promotions & Discounts.
+- Email Confirmation & OTP.
 - Repository Pattern.
 - Scalar API Documentation.
 
@@ -76,6 +82,7 @@ A task management application designed to organize and manage tasks efficiently.
 - Entity Framework Core & SQL Server.
 - ASP.NET Core Identity.
 - Authentication & Email Confirmation.
+- Task Priorities, Status & Due Date Management.
 - Repository Design Pattern.
 - SOLID Principles.
 
